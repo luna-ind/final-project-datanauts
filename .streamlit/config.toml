@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+primaryColor = "#b9927e"              # button / link color
+backgroundColor = "#f9f5f3"           # app background
+secondaryBackgroundColor = "#e1d2c7"  # sidebar / widget background
+textColor = "#2e1e1c"                 # text color
+font = "sans serif"
+
+blueTextColor="#2e1e1c"   # stop bold/marked text from turning blue
+linkColor="#b9927e"       # change link color
+blueColor="#8e6e53" #accent
+blueBackgroundColor="#f2e8e4" #bg fill
