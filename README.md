@@ -1,5 +1,5 @@
 ## 📖 About this Project
-This repository showcases the final project of our group, **Datanauts**, developed during a Data Science Bootcamp!
+This repository is the **Datanauts final project**, created as part of our Data Science Bootcamp journey.
 
 It showcases a simple **machine learning model deployment** using Streamlit.
 We trained a **LightGBM classifier** to detect **cyberbullying texts**, then exported the model and pipeline as a `.pkl` file and deployed it as an interactive web application.  
