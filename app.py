@@ -20,7 +20,8 @@ def main():
 
         # --- descr box ---
         st.info(
-            """This app uses a **LightGBM** model to classify text as **Cyberbullying** or **Not Cyberbullying**.
+            """This app uses a **LightGBM** model to classify text as **Cyberbullying** or **Not Cyberbullying**.This project aims to build a machine learning model that can automatically detect and flag tweets containing potential cyberbullying content.  
+               The system is designed as an early-warning tool to help social media platforms identify harmful messages quickly and create a safer online environment.
 
 **How to use:**
 - Open the **Cyberbullying Detector** page from the sidebar.
