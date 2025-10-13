@@ -20,7 +20,7 @@ def main():
 
         # --- descr box ---
         st.info(
-            """This app uses an **XGBoost** model to classify text as **Cyberbullying** or **Not Cyberbullying**.
+            """This app uses a **LightGBM** model to classify text as **Cyberbullying** or **Not Cyberbullying**.
 
 **How to use:**
 - Open the **Cyberbullying Detector** page from the sidebar.
